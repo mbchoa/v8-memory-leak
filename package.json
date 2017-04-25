@@ -1,0 +1,8 @@
+{
+  "name": "v8-memory-leak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mbchoa/v8-memory-leak.git",
+  "author": "Michael-Bryant Choa <mbchoa@gmail.com>",
+  "license": "MIT"
+}
